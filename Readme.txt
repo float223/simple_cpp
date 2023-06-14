@@ -3,9 +3,7 @@ Welcome!
 THis is Simple C++. A (revolutionary) library (or a header file) That will make everyone love C++. This was just Made in 2 days(or 2 nights).
 
 What's new??
- - COMPILER SETUP (Thank you libsdl and Raylib)
- - Instead of the Whole version_scpp function, the function is splitted into several parts
- - Re-modified pointers
+- How to Identify Simple C++
  
  Tutorials coming out soon! 
  
