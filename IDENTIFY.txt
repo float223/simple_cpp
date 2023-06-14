@@ -1,0 +1,67 @@
+  -- IDENTIFY SIMPLE C++ --!
+
+This file is included after v0.3 for copyrights. 
+
+(1) License
+
+This Program contains LICENSE.txt which contains
+GNU GPL v3 (c) 2007 by Free Software Foundation. If 
+it does not contains LICENSE.TXT in 7z file, The 
+file scpp.h is a fake. Any file that contains 
+only LICENSE.txt will be fake. 
+
+On the project's github, there is LICENSE file which 
+contains License and it is an initial commit than a 
+file upload. If it is said to be `Added files via
+upload`, then the project is said to be fake.
+
+(2) GNU License is on the top
+
+By default, the top of scpp.h contain the following
+text:
+"v.0.3 Simple C++
+(copyrights)
+Simple C++ | Made to revolutionalize C++ programming | Making it easy to learn C++
+Copyright (C) 2023 SJ(Float) 
+
+This program (or library) is free software: you can redistribute it and/or modify
+it under the terms of GNU General Public License as Published by 
+the Free Software Foundation, either version 3 of the license, or (at your option)
+any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY
+WARRANTY; without even The Implied warranty of MERCHENTABILITY or FITNESS FOR
+A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You Should recive a copy og the GNU General Public License along with this
+program. If not, See <https://www.gnu.org/licenses/>
+
+If you DIDN'T GET A LICENSE.TXT AND IDENTIFY.TXT AFTER V0.3, THIS PROGRAM
+ISN'T OFFICIAL. Read IDENTIFY.txt for more info. 
+"
+If any one change (either if it is space or spellings)
+is detected, the program is said to be fake.
+
+(3) Function Macros
+
+The  Macros at FUNCTION_MACROS_SCPP 
+(previously FUNCTON_REPLACEMENT_SCPP) contains "#define ret return
+// works for me though :) use return function | Read identify.txt"
+at the macro for return.
+
+(4) Inclusions of Malicious executables at 7z file
+
+There is not a single binary (expect ident.dll) in the 7z.
+By the nature of ident.dll, it does nothing. But if you
+download resource hacker, It would show the copyrights.
+
+(5) Inclusions of SDL and raylib copyrights
+
+The Compiler setup code is borrowed from SDL and raylib. 
+
+(6) Comment identify
+
+If there is not a single comment in the file, the Software
+is said to be fake.
+
+That is it.  Please contact me on github :)
